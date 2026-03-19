@@ -1,13 +1,13 @@
 quantidade_livros = 3
-preco_livro = 25
+preço_livro = 25
 
 # Dados das canetas
 quantidade_canetas = 2
-preco_caneta = 5
+preço_caneta = 5
 
 # Cálculo dos subtotais e do total geral
-total_livros = quantidade_livros * preco_livro
-total_canetas = quantidade_canetas * preco_caneta
+total_livros = quantidade_livros * preço_livro
+total_canetas = quantidade_canetas * preço_caneta
 total_gasto = total_livros + total_canetas
 
 # Exibindo o resultado

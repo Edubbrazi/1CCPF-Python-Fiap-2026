@@ -4,7 +4,7 @@ quant_peca1 = int(input(f"Quantas unidades de {nome_peca1} você quer? "))
 valor_peca1 = float(input(f"Qual o valor unitário de {nome_peca1}? R$ "))
 
 # Entrada de dados da Peça 2
-nome_peca2 = input("\nDigite o nome da peça 2: ")
+nome_peca2 = input("Digite o nome da peça 2: ")
 quant_peca2 = int(input(f"Quantas unidades de {nome_peca2} você quer? "))
 valor_peca2 = float(input(f"Qual o valor unitário de {nome_peca2}? R$ "))
 
